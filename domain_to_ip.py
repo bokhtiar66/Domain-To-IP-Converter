@@ -1,3 +1,4 @@
+#Domain to ip
 #!/usr/bin/python3
 import socket
 import pyfiglet
